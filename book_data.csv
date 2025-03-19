@@ -1,0 +1,101 @@
+,id,title,price,rating,availability,genre
+0,1,Soumission,50.1,1,In stock,Fiction
+1,2,Private Paris (Private #10),47.61,5,In stock,Fiction
+2,3,"We Love You, Charlie Freeman",50.27,5,In stock,Fiction
+3,4,Thirst,17.27,5,In stock,Fiction
+4,5,The Murder That Never Was (Forensic Instincts #5),54.11,3,In stock,Fiction
+5,6,Tuesday Nights in 1980,21.04,2,In stock,Fiction
+6,7,The Vacationers,42.15,4,In stock,Fiction
+7,8,The Regional Office Is Under Attack!,51.36,5,In stock,Fiction
+8,9,Finders Keepers (Bill Hodges Trilogy #2),53.53,5,In stock,Fiction
+9,10,The Time Keeper,27.88,5,In stock,Fiction
+10,11,The Testament of Mary,52.67,4,In stock,Fiction
+11,12,The First Hostage (J.B. Collins #2),25.85,3,In stock,Fiction
+12,13,Take Me with You,45.21,3,In stock,Fiction
+13,14,Still Life with Bread Crumbs,26.41,3,In stock,Fiction
+14,15,Shtum,55.84,4,In stock,Fiction
+15,16,My Name Is Lucy Barton,41.56,1,In stock,Fiction
+16,17,My Mrs. Brown,24.48,3,In stock,Fiction
+17,18,Mr. Mercedes (Bill Hodges Trilogy #1),28.9,1,In stock,Fiction
+18,19,I Am Pilgrim (Pilgrim #1),10.6,4,In stock,Fiction
+19,20,Eligible (The Austen Project #4),27.09,3,In stock,Fiction
+20,21,Soumission,50.1,1,In stock,Fiction
+21,22,Private Paris (Private #10),47.61,5,In stock,Fiction
+22,23,"We Love You, Charlie Freeman",50.27,5,In stock,Fiction
+23,24,Thirst,17.27,5,In stock,Fiction
+24,25,The Murder That Never Was (Forensic Instincts #5),54.11,3,In stock,Fiction
+25,26,Tuesday Nights in 1980,21.04,2,In stock,Fiction
+26,27,The Vacationers,42.15,4,In stock,Fiction
+27,28,The Regional Office Is Under Attack!,51.36,5,In stock,Fiction
+28,29,Finders Keepers (Bill Hodges Trilogy #2),53.53,5,In stock,Fiction
+29,30,The Time Keeper,27.88,5,In stock,Fiction
+30,31,The Testament of Mary,52.67,4,In stock,Fiction
+31,32,The First Hostage (J.B. Collins #2),25.85,3,In stock,Fiction
+32,33,Take Me with You,45.21,3,In stock,Fiction
+33,34,Still Life with Bread Crumbs,26.41,3,In stock,Fiction
+34,35,Shtum,55.84,4,In stock,Fiction
+35,36,My Name Is Lucy Barton,41.56,1,In stock,Fiction
+36,37,My Mrs. Brown,24.48,3,In stock,Fiction
+37,38,Mr. Mercedes (Bill Hodges Trilogy #1),28.9,1,In stock,Fiction
+38,39,I Am Pilgrim (Pilgrim #1),10.6,4,In stock,Fiction
+39,40,Eligible (The Austen Project #4),27.09,3,In stock,Fiction
+40,41,Soumission,50.1,1,In stock,Fiction
+41,42,Private Paris (Private #10),47.61,5,In stock,Fiction
+42,43,"We Love You, Charlie Freeman",50.27,5,In stock,Fiction
+43,44,Thirst,17.27,5,In stock,Fiction
+44,45,The Murder That Never Was (Forensic Instincts #5),54.11,3,In stock,Fiction
+45,46,Tuesday Nights in 1980,21.04,2,In stock,Fiction
+46,47,The Vacationers,42.15,4,In stock,Fiction
+47,48,The Regional Office Is Under Attack!,51.36,5,In stock,Fiction
+48,49,Finders Keepers (Bill Hodges Trilogy #2),53.53,5,In stock,Fiction
+49,50,The Time Keeper,27.88,5,In stock,Fiction
+50,51,The Testament of Mary,52.67,4,In stock,Fiction
+51,52,The First Hostage (J.B. Collins #2),25.85,3,In stock,Fiction
+52,53,Take Me with You,45.21,3,In stock,Fiction
+53,54,Still Life with Bread Crumbs,26.41,3,In stock,Fiction
+54,55,Shtum,55.84,4,In stock,Fiction
+55,56,My Name Is Lucy Barton,41.56,1,In stock,Fiction
+56,57,My Mrs. Brown,24.48,3,In stock,Fiction
+57,58,Mr. Mercedes (Bill Hodges Trilogy #1),28.9,1,In stock,Fiction
+58,59,I Am Pilgrim (Pilgrim #1),10.6,4,In stock,Fiction
+59,60,Eligible (The Austen Project #4),27.09,3,In stock,Fiction
+60,61,Soumission,50.1,1,In stock,Fiction
+61,62,Private Paris (Private #10),47.61,5,In stock,Fiction
+62,63,"We Love You, Charlie Freeman",50.27,5,In stock,Fiction
+63,64,Thirst,17.27,5,In stock,Fiction
+64,65,The Murder That Never Was (Forensic Instincts #5),54.11,3,In stock,Fiction
+65,66,Tuesday Nights in 1980,21.04,2,In stock,Fiction
+66,67,The Vacationers,42.15,4,In stock,Fiction
+67,68,The Regional Office Is Under Attack!,51.36,5,In stock,Fiction
+68,69,Finders Keepers (Bill Hodges Trilogy #2),53.53,5,In stock,Fiction
+69,70,The Time Keeper,27.88,5,In stock,Fiction
+70,71,The Testament of Mary,52.67,4,In stock,Fiction
+71,72,The First Hostage (J.B. Collins #2),25.85,3,In stock,Fiction
+72,73,Take Me with You,45.21,3,In stock,Fiction
+73,74,Still Life with Bread Crumbs,26.41,3,In stock,Fiction
+74,75,Shtum,55.84,4,In stock,Fiction
+75,76,My Name Is Lucy Barton,41.56,1,In stock,Fiction
+76,77,My Mrs. Brown,24.48,3,In stock,Fiction
+77,78,Mr. Mercedes (Bill Hodges Trilogy #1),28.9,1,In stock,Fiction
+78,79,I Am Pilgrim (Pilgrim #1),10.6,4,In stock,Fiction
+79,80,Eligible (The Austen Project #4),27.09,3,In stock,Fiction
+80,81,The Great Gatsby,12.99,4,In Stock,Fiction
+81,82,To Kill a Mockingbird,10.5,5,In Stock,Fiction
+82,83,1984,9.99,5,In Stock,Science Fiction
+83,84,Pride and Prejudice,7.95,4,In Stock,Classic
+84,85,The Hobbit,14.5,5,In Stock,Fantasy
+85,86,The Catcher in the Rye,11.25,3,Low Stock,Fiction
+86,87,Lord of the Flies,10.99,4,In Stock,Fiction
+87,88,Animal Farm,8.75,4,In Stock,Fiction
+88,89,Brave New World,12.5,4,Out of Stock,Science Fiction
+89,90,The Alchemist,9.25,5,In Stock,Fiction
+90,91,Harry Potter and the Sorcerer's Stone,15.99,5,In Stock,Fantasy
+91,92,The Da Vinci Code,13.45,3,Low Stock,Mystery
+92,93,The Shining,11.99,4,In Stock,Horror
+93,94,The Hunger Games,10.75,4,In Stock,Science Fiction
+94,95,Dune,12.99,5,Low Stock,Science Fiction
+95,96,The Road,9.5,4,In Stock,Post-Apocalyptic
+96,97,Gone Girl,11.25,4,In Stock,Thriller
+97,98,The Girl with the Dragon Tattoo,14.25,4,Out of Stock,Mystery
+98,99,The Martian,13.5,5,In Stock,Science Fiction
+99,100,The Silent Patient,12.75,4,In Stock,Thriller
